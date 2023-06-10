@@ -5,4 +5,3 @@ Objective: A clothing store wants to create an annual sales insights report for 
 
 Skills Shown: Data Cleaning, Data Processing, Data Visualization, Creating Interactive Dashboard, Sharing insights and suggestions to improve sales.
 
-* In the 'Clean Data' worksheet, the column names highlighted in dark yellow are calculated by formulas, using the data of other columns.
