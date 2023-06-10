@@ -1,4 +1,4 @@
-# Clothing Store - Sales Insights
+# Clothing Store - Sales Insights (MS Excel)
 Data Analysis on a dataset of a Clothing Store using MS Excel.
 
 Objective: A clothing store wants to create an annual sales insights report for 2022, so that they can understand their customers and increase sales in 2023.  
